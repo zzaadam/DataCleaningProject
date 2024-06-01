@@ -1,10 +1,10 @@
 # Objectives:
 The primary objective was to clean and preprocess the Nashville Housing dataset to prepare it for further analysis and modeling. Specific goals included:
--Identifying and handling missing or inconsistent data in the dataset.
--Standardizing data formats and removing duplicates.
--Breaking out or combining columns to create more meaningful features.
--Removing irrelevant or redundant information.
--Preparing the cleaned dataset for subsequent analysis or modeling tasks.
+- Identifying and handling missing or inconsistent data in the dataset.
+- Standardizing data formats and removing duplicates.
+- Breaking out or combining columns to create more meaningful features.
+- Removing irrelevant or redundant information.
+- Preparing the cleaned dataset for subsequent analysis or modeling tasks.
 
 # Methodology:
 The data cleaning and preprocessing were performed using SQL, specifically Microsoft SQL Server Management Studio (SSMS). The following steps were taken:
